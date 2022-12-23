@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 contoh isian
+=======
+contoh isian
+
+hemmm. kkaiakgudgjad hadudysdj
+qhakshhduwhwiug klhdsih
+>>>>>>> f4d2417ff75e86af74e49c82e83112e8cfe13a13
